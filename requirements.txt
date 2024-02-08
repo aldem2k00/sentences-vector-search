@@ -1,0 +1,4 @@
+﻿razdel==0.5.0
+beautifulsoup4==4.12.3
+Wikipedia-API==0.6.0
+transformers==4.35.2
